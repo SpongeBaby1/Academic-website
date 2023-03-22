@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jiming Wu 
 
 # Full name (for SEO)
-first_name: Alice
+first_name: Jiming
 last_name: Wu
 
 # Status emoji
@@ -18,8 +18,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Shanghai for Science and Technology
+    url: https://www.usst.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
