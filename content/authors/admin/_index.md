@@ -18,7 +18,7 @@ role: Master of Engineering (M.E.) in Environmental Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Shanghai for Science and Technology
+  - name: University of Shanghai for Science and Technology (USST)
     url: https://www.usst.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
