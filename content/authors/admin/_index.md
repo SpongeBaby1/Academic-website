@@ -7,14 +7,14 @@ first_name: Jiming
 last_name: Wu
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Engineering (M.E.) in Environmental Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
