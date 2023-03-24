@@ -42,10 +42,10 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: 
-          Master of Engineering (M.E.) in Environmental Engineering  
+          Master of Engineering (M.E.) in Environmental Engineering<br>
 
-          University of Shanghai for Science and Technology (USST)  
-          
+          University of Shanghai for Science and Technology (USST)<br>
+
           Alice Wu is a professor of artificial intelligence at the Stanford AI Lab.
   # - block: features 
   #   content:
