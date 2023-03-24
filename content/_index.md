@@ -35,13 +35,15 @@ sections:
   #       gradient_end: '#1976d2'
   #       gradient_start: '#004ba0'
   #       text_color_light: true
-  # - block: about.avatar
-  #   id: about
-  #   content:
-  #     # Choose a user profile to display (a folder name within `content/authors/`)
-  #     username: admin
-  #     # Override your bio text from `authors/admin/_index.md`?
-  #     text:
+  - block: about.avatar
+    id: about
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text:
+    design:
+      columns: '2'
   # - block: features 
   #   content:
   #     title: Skills
@@ -53,6 +55,7 @@ sections:
   #       - name: Statistics
   #         description: 100%
   #         icon: chart-line
+  
   #         icon_pack: fas
   #       - name: Photography
   #         description: 10%
@@ -123,6 +126,8 @@ sections:
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
+
+
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
