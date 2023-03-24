@@ -41,7 +41,11 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: Alice Wu is a professor of artificial intelligence at the Stanford AI Lab.
+      text: 
+        description: |2-
+          Master of Engineering (M.E.) in Environmental Engineering
+          University of Shanghai for Science and Technology (USST)
+          Alice Wu is a professor of artificial intelligence at the Stanford AI Lab.
   # - block: features 
   #   content:
   #     title: Skills
