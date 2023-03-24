@@ -45,6 +45,8 @@ sections:
           Master of Engineering (M.E.) in Environmental Engineering
           University of Shanghai for Science and Technology (USST)
           Alice Wu is a professor of artificial intelligence at the Stanford AI Lab.
+    design:
+      columns: '2'
   # - block: features 
   #   content:
   #     title: Skills
