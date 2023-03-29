@@ -5,7 +5,7 @@ date: 2023-03-23
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: github.SpongeBaby1.jimingwu
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
